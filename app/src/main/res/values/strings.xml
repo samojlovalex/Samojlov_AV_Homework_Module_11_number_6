@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_11_number_6</string>
+    <string name="titleMainActivityTV">Вас приветствует альбом комиксов Wawa Wiwa</string>
+    <string name="enterMainActivityBT">Начать просмотр</string>
+    <string name="toolbar_title">Альбом изображений</string>
+    <string name="toolbar_subtitle">Mod. 11 № 6</string>
+    <string name="nextFotoBT">Следующее фото</string>
+    <string name="exit">Exit</string>
+    <string name="toast_exit">Приложение закрыто</string>
+    <string name="titleLastActivityTV">Спасибо за просмотр!\nДо свидания</string>
+</resources>
